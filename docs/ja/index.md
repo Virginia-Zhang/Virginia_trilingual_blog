@@ -5,6 +5,9 @@ hero:
   name: "マイブログ"
   text: "テクノロジーと生活をシェア"
   tagline: "成長を記録し、経験をシェア"
+  image:
+    src: /hero-image.svg
+    alt: ブログのヒーローイメージ
   actions:
     - theme: brand
       text: 読み始める

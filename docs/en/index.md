@@ -5,6 +5,9 @@ hero:
   name: "My Blog"
   text: "Sharing Tech and Life"
   tagline: "Recording growth, sharing experiences"
+  image:
+    src: /hero-image.svg
+    alt: Blog Hero Image
   actions:
     - theme: brand
       text: Start Reading

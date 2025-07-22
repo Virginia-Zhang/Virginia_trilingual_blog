@@ -1,24 +1,26 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "My Awesome Blog"
-  text: "Virginia's awesome tech blog world"
-  tagline: My great project tagline
+  name: "我的个人博客"
+  text: "分享技术与生活"
+  tagline: "记录成长，分享经验"
+  image:
+    src: /hero-image.svg
+    alt: 博客主图
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 开始阅读
+      link: /posts/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 关于我
+      link: /about
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 技术分享
+    details: 分享前端、后端开发经验
+  - title: 生活记录
+    details: 记录在日本的生活点滴
+  - title: 多语言支持
+    details: 支持中文、日文、英文三种语言
 ---
