@@ -7,7 +7,7 @@ hero:
   tagline: "记录成长，分享经验"
   image:
     src: /hero-image.svg
-    alt: 博客主图
+    alt: 主图
   actions:
     - theme: brand
       text: 开始阅读
