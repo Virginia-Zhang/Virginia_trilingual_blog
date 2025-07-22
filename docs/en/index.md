@@ -19,8 +19,8 @@ hero:
 features:
   - title: Tech Sharing
     details: Sharing frontend and backend development experience
-  - title: Life Recording
-    details: Recording life in Japan
+  - title: Language Study
+    details: ABCs, hiragana, and tone marks dancing together
   - title: Multi-language Support
     details: Support for Chinese, Japanese, and English
 ---

@@ -19,8 +19,8 @@ hero:
 features:
   - title: 技术分享
     details: 分享前端、后端开发经验
-  - title: 生活记录
-    details: 记录在日本的生活点滴
+  - title: 外语学习
+    details: 外语学习深似海，ABC与あいうえお齐飞，平上去入共长天
   - title: 多语言支持
     details: 支持中文、日文、英文三种语言
 ---
